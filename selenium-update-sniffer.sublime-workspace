@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HasVal",
+				"HasValueNotEmpty"
+			],
+			[
+				"_Has",
+				"_HasValueNotEmpty"
+			],
+			[
+				"HasV",
+				"HasValueNotEmpty"
+			],
+			[
+				"_C",
+				"_createUser"
+			],
+			[
+				"display",
+				"displayAlertCallback"
+			],
+			[
+				"hideAle",
+				"hideAlert"
+			],
+			[
+				"notification",
+				"notificationService"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"eas",
+				"ease-out"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"compile",
+				"Coffee: Compile File"
+			],
+			[
+				"compil",
+				"Coffee: Compile File"
+			],
+			[
+				"comf",
+				"Coffee: Compile File"
+			],
+			[
+				"copmil",
+				"Coffee: Compile File"
+			],
+			[
+				"compie",
+				"Coffee: Compile File"
+			],
+			[
+				"lint",
+				"Coffee: Lint"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"coffe",
+				"Coffee: Check Syntax"
+			],
+			[
+				"check",
+				"Coffee: Check Syntax"
+			],
+			[
+				"coff",
+				"Coffee: Lint"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"powershe",
+				"Set Syntax: Powershell v2"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help();",
+			"help()l;",
+			"exit",
+			"help",
+			"help()",
+			"close()",
+			"exit()",
+			"restart()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/config.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/main.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/lib/server.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/lib/posts.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/lib/mailer.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/lib/goose.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api/spec.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api/contact.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api/admin.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/lib/util.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/server.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/client/coffee/controllers.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/util.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api/index.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/goose.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/admin.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api/common.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/api.coffee",
+		"/E/nginx/nginx-1.5.10/conf/nginx.conf",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/server/admin.js",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/public/js/out.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/views/partials/admin_panel_users.jade",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/posts.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/mocker.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/server/goose.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/server/util.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/src/app.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/posts.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/noggin_server.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/package.json",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/noggin.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/noggin.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/mocker.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/mailer.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/mailer.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/index.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/index.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/util.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/goose.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/config.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/Gruntfile.coffee",
+		"/E/_Stuff/Coding/GitHub/MysticGear/package.json",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/src/old_admin.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/README.md",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/views/partials/topnav.jade",
+		"/E/_Stuff/Coding/GitHub/MysticGear/Gruntfile.coffee",
+		"/E/_Stuff/Coding/GitHub/powershell_custom_aliases/powershell_custom_aliases.psm1",
+		"/E/_Stuff/Coding/GitHub/powershell_custom_aliases/powershell_custom_aliases_installer.ps1",
+		"/C/Users/Alex/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/E/_Stuff/Coding/GitHub/powershell_custom_aliases/powershell_custom_aliases_v2x.psm1",
+		"/E/_Stuff/Coding/GitHub/MysticGear/Gruntfile.old.js",
+		"/E/_Stuff/Coding/GitHub/MysticGear/node_modules/blog.js/views/layout.jade",
+		"/E/nginx/nginx-1.5.6-basldev-rev3/conf/nginx.conf",
+		"/E/_Stuff/Coding/GitHub/MysticGear/build/out.coffee",
+		"/E/nginx-1.5.10/nginx-1.5.10/conf/nginx.conf",
+		"/E/_Stuff/Coding/GitHub/noggin/server/config.js",
+		"/E/_Stuff/Coding/GitHub/noggin/node_modules/noggin/.gitignore",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/main.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/controllers.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/admin_panel_users.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/main.coffee",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/controllers.coffee",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/.gitignore",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/controllers_old.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/noggin.sublime-project",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/util.coffee",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/contact.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/contact-modal.jade",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/Monokai (SL).tmTheme",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Installed Packages/Jade.sublime-package",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/services.coffee",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/signin.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/css/main.css",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/server/mailer.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/node_modules/mongoose/examples/express/connection-sharing/modelA.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/node_modules/mongodb/Makefile",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/filters_old.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/filters.coffee",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/services_old.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/services.js",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/util_old.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/js/main_old.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/notifications.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/index.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/node_modules/nodeunit/deps/json2.js",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/node_modules/mongodb/node_modules/bson/tools/jasmine-1.1.0/jasmine.css",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/layout.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/topnav.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/admin_nav.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/views/partials/admin_home.jade",
+		"/E/_Stuff/Coding/GitHub Projects/noggin/node_modules/noggin/client/css/bootstrap.cosmo.css",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 2/Packages/CompleteSharp/completesharp.py",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 2/Packages/CompleteSharp/CompleteSharp.sublime-settings",
+		"/E/nginx/nginx-1.5.6-basldev-rev3/conf/basl_proxy_rewrite.conf",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 2/Packages/CompleteSharp/CompleteSharp.cs",
+		"/C/Users/Alex/Documents/WindowsPowerShell/Modules/powershell_custom_aliases.psm1",
+		"/C/Users/Alex/.bash_history"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"users",
+			",",
+			"uri",
+			"get",
+			"callback",
+			"item",
+			"type",
+			"item._id",
+			"'",
+			"item._id",
+			"{{item._id}}",
+			"'",
+			"_",
+			"powershell_custom_aliases",
+			"'",
+			"goToPlace",
+			"AdminListController",
+			"0.5s",
+			"1s",
+			"ease-out",
+			"ease",
+			"1",
+			"scale(2)",
+			"$drives",
+			"4",
+			"drive_letter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"window.location ="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "selenium-update-sniffer.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"goose",
+				"node_modules\\blog.js\\server\\goose.js"
+			],
+			[
+				"admin.js",
+				"node_modules\\blog.js\\server\\admin.js"
+			],
+			[
+				"admin",
+				"node_modules\\blog.js\\src\\admin.coffee"
+			],
+			[
+				"util.cof",
+				"node_modules\\blog.js\\src\\util.coffee"
+			],
+			[
+				"admin.coffee",
+				"node_modules\\blog.js\\src\\admin.coffee"
+			],
+			[
+				"services",
+				"client\\js\\services.coffee"
+			],
+			[
+				"main.co",
+				"client\\js\\main.coffee"
+			],
+			[
+				"jade",
+				"views\\index.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

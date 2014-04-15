@@ -1,0 +1,18 @@
+{
+  "name": "SeleniumUpdateSniffer",
+  "description": "Checks for updates to the Selenium DLL's and emails you if it finds an update.",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies":
+  {
+    "request": "*",
+    "cheerio": "*",
+    "nodemailer": "0.6.1"
+  },
+  "devDependencies":
+  {
+    "request": "*",
+    "cheerio": "*",
+    "nodemailer": "0.6.1"
+  }
+}
