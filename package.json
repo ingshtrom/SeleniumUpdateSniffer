@@ -1,5 +1,5 @@
 {
-  "name": "SeleniumUpdateSniffer",
+  "name": "SeleniumVersionDiff",
   "description": "Checks for updates to the Selenium DLL's and emails you if it finds an update.",
   "version": "0.0.1",
   "private": false,
@@ -7,12 +7,14 @@
   {
     "request": "*",
     "cheerio": "*",
-    "nodemailer": "0.6.1"
+    "underscore": "*",
+    "nodemailer": "*"
   },
   "devDependencies":
   {
     "request": "*",
     "cheerio": "*",
-    "nodemailer": "0.6.1"
+    "underscore": "*",
+    "nodemailer": "*"
   }
 }
