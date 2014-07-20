@@ -1,19 +1,19 @@
 {
-  "name": "SeleniumVersionDiff",
+  "name": "selenium-update-sniffer",
   "description": "Checks for updates to the Selenium DLL's and emails you if it finds an update.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "selenium",
     "notifier",
     "email"
   ],
-  "homepage": "https://github.com/ingshtrom/SeleniumUpdateSniffer",
+  "homepage": "https://github.com/ingshtrom/selenium-update-sniffer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ingshtrom/SeleniumUpdateSniffer.git"
+    "url": "https://github.com/ingshtrom/selenium-update-sniffer.git"
   },
   "bugs": {
-    "url": "https://github.com/ingshtrom/SeleniumUpdateSniffer/issues"
+    "url": "https://github.com/ingshtrom/selenium-update-sniffer/issues"
   },
   "author": {
     "name": "Alex Hokanson",
@@ -23,7 +23,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/ingshtrom/SeleniumUpdateSniffer/blob/master/LICENSE.txt"
+      "url": "http://github.com/ingshtrom/selenium-update-sniffer/blob/master/LICENSE.txt"
     }
   ],
   "main": "src/scraper.js",
