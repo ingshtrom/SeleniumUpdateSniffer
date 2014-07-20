@@ -1,20 +1,40 @@
 {
   "name": "SeleniumVersionDiff",
   "description": "Checks for updates to the Selenium DLL's and emails you if it finds an update.",
-  "version": "0.0.1",
-  "private": false,
+  "version": "0.1.1",
+  "keywords": [
+    "selenium",
+    "notifier",
+    "email"
+  ],
+  "homepage": "https://github.com/ingshtrom/SeleniumUpdateSniffer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ingshtrom/SeleniumUpdateSniffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingshtrom/SeleniumUpdateSniffer/issues"
+  },
+  "author": {
+    "name": "Alex Hokanson",
+    "email": "alex.hokanson@mysticgear.com",
+    "url": "http://mysticgear.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ingshtrom/SeleniumUpdateSniffer/blob/master/LICENSE.txt"
+    }
+  ],
+  "main": "src/scraper.js",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
   "dependencies":
   {
-    "request": "*",
-    "cheerio": "*",
-    "underscore": "*",
-    "nodemailer": "*"
-  },
-  "devDependencies":
-  {
-    "request": "*",
-    "cheerio": "*",
-    "underscore": "*",
-    "nodemailer": "*"
+    "request": ">=2.37.0",
+    "cheerio": ">=0.17.0",
+    "underscore": ">=1.6.0",
+    "nodemailer": ">=1.0.3"
   }
 }
